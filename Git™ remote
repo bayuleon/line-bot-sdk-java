@@ -1,0 +1,4 @@
+$ heroku git:remote -a furendo13
+$ git add .
+$ git commit -m 'First commit'
+$ git push heroku master
